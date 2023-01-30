@@ -18,7 +18,7 @@
   <img src="https://telegra.ph/file/5084b8b304e57794ed83c.jpg" /></>
 </p>
 
-- 👼 My name is Zeeone 
+- 👼 My name is SmartStore 
 - 🗣️ I am 18 years old 
 - 🔭 I am not programmer
 
@@ -57,7 +57,7 @@
 
 ## ```Coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/SmartStore)
 
 ## ```Thanks To```
 
@@ -66,3 +66,4 @@
 - [`Farhan`]()
 - [`Ojan`]()
 - [`ZeeoneOfc`]()
+- [`SmartStore`]()
